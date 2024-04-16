@@ -26,7 +26,8 @@
 путем парсинга Telegram. Он состоял из двух элементов - android приложения и бекенда на PHP. Написанием кода для обоих элементов занимался самостоятельно.
 [github](https://github.com/german142000/zetrix-source) (репозиторий закрытый, если необходимо посмотреть, дам доступ). Работает по сей день.
 
-Адаптивная верстка html/css/js - [DentistAm](https://github.com/german142000/DentistAm)
+Адаптивная верстка html/css/js - [DentistAm](https://github.com/german142000/DentistAm).
+
 Писал бота для Telegram на php с использованием стандартных модулей mbstring, curl.
 
 Отличным примером кода на PHP является репозиторий - [SCRT-system](https://github.com/german142000/SCRT-system). Также в этом репозитории имееются примеры на js.
